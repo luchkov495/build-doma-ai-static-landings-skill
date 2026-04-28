@@ -1,0 +1,4 @@
+interface:
+  display_name: "DOMA.ai Static Landings"
+  short_description: "Build static DOMA.ai-style landing pages."
+  default_prompt: "Create a static DOMA.ai-style landing page for a new ЖКХ product using the bundled brand guide and references."

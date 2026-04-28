@@ -1,0 +1,825 @@
+{
+  "url": "https://doma.ai/client_center",
+  "title": "Аварийно-Диспетчерская Служба ЖКХ",
+  "viewport": {
+    "w": 1440,
+    "h": 1200
+  },
+  "body": {
+    "tag": "body",
+    "text": "Услуги Умный дом Приложение жителя Блог Партнерам Работа в Домах 8 800 700-36-62 Подключить диспетчерскую Аварийно-диспетчерская служба для управляющих компаний и ТСЖ Ответим на вопросы и заявки жителей, чтобы вы не трат",
+    "className": "t-body",
+    "x": 0,
+    "y": 0,
+    "w": 1425,
+    "h": 6334,
+    "fontFamily": "Times",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgba(0, 0, 0, 0)",
+    "backgroundImage": "none",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "margin": "0px",
+    "display": "block",
+    "gap": "normal",
+    "boxShadow": "none"
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "Делегируйте работу с заявками без потери качества обслуживания",
+      "className": "tn-atom",
+      "x": 311,
+      "y": 1130,
+      "w": 818,
+      "h": 96,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "44px",
+      "fontWeight": "700",
+      "lineHeight": "48px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "table-cell",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "h2",
+      "text": "Наш журнал о ЖКХ",
+      "className": "tn-atom",
+      "x": 495,
+      "y": 4942,
+      "w": 450,
+      "h": 48,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "44px",
+      "fontWeight": "700",
+      "lineHeight": "48px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "table-cell",
+      "gap": "normal",
+      "boxShadow": "none"
+    }
+  ],
+  "buttons": [
+    {
+      "tag": "a",
+      "text": "Услуги",
+      "className": "tn-atom",
+      "x": 227,
+      "y": 0,
+      "w": 63,
+      "h": 86,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "21px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "flex",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Подключить диспетчерскую",
+      "className": "tn-atom",
+      "x": 1115,
+      "y": 16,
+      "w": 245,
+      "h": 58,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "borderRadius": "16px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "flex",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Услуги",
+      "className": "",
+      "x": 197,
+      "y": 127,
+      "w": 46,
+      "h": 18,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(208, 211, 229)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "inline",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Подключить",
+      "className": "tn-atom",
+      "x": 120,
+      "y": 454,
+      "w": 140,
+      "h": 56,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "22.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(43, 195, 89)",
+      "backgroundImage": "none",
+      "borderRadius": "16px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "flex",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Рассчитать стоимость",
+      "className": "tn-atom",
+      "x": 1084,
+      "y": 890,
+      "w": 236,
+      "h": 80,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "22.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(34, 34, 34)",
+      "background": "rgb(255, 255, 255)",
+      "backgroundImage": "none",
+      "borderRadius": "16px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "flex",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Подключить",
+      "className": "tn-atom",
+      "x": 120,
+      "y": 2336,
+      "w": 140,
+      "h": 56,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "22.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(43, 195, 89)",
+      "backgroundImage": "none",
+      "borderRadius": "16px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "flex",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Подключить",
+      "className": "tn-atom",
+      "x": 120,
+      "y": 3064,
+      "w": 140,
+      "h": 56,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "22.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(43, 195, 89)",
+      "backgroundImage": "none",
+      "borderRadius": "16px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "flex",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Читать полностью →",
+      "className": "tn-atom",
+      "x": 112,
+      "y": 3434,
+      "w": 166,
+      "h": 22,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "22.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(129, 142, 156)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "borderRadius": "30px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "flex",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Читать полностью →",
+      "className": "tn-atom",
+      "x": 545,
+      "y": 3434,
+      "w": 166,
+      "h": 22,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "22.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(129, 142, 156)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "borderRadius": "30px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "flex",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Читать полностью →",
+      "className": "tn-atom",
+      "x": 978,
+      "y": 3434,
+      "w": 166,
+      "h": 22,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "22.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(129, 142, 156)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "borderRadius": "30px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "flex",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Посмотреть услуги →",
+      "className": "tn-atom",
+      "x": 877,
+      "y": 4300,
+      "w": 210,
+      "h": 56,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "22.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(43, 195, 89)",
+      "backgroundImage": "none",
+      "borderRadius": "16px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "flex",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Посмотреть продукты →",
+      "className": "tn-atom",
+      "x": 120,
+      "y": 3951,
+      "w": 234,
+      "h": 56,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "22.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(43, 195, 89)",
+      "backgroundImage": "none",
+      "borderRadius": "16px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "flex",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Начать пользоваться",
+      "className": "tn-atom",
+      "x": 120,
+      "y": 4605,
+      "w": 209,
+      "h": 56,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "22.4px",
+      "letterSpacing": "normal",
+      "color": "rgb(34, 34, 34)",
+      "background": "rgb(255, 255, 255)",
+      "backgroundImage": "none",
+      "borderRadius": "16px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "flex",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Читать журнал →",
+      "className": "",
+      "x": 649,
+      "y": 5011,
+      "w": 137,
+      "h": 20,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "lineHeight": "22px",
+      "letterSpacing": "normal",
+      "color": "rgba(0, 0, 0, 0)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "inline",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Нормативы убираемой площади для дворников: как рассчитать штат при росте МРОТ",
+      "className": "t-feed__link js-feed-post-link",
+      "x": 553,
+      "y": 5475,
+      "w": 292,
+      "h": 103,
+      "fontFamily": "WixMadeforDisplay",
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "lineHeight": "26px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "inline",
+      "gap": "normal",
+      "boxShadow": "none"
+    },
+    {
+      "tag": "a",
+      "text": "Услуги",
+      "className": "",
+      "x": 405,
+      "y": 5869,
+      "w": 69,
+      "h": 25,
+      "fontFamily": "WixMadeforDisplay, Arial, sans-serif",
+      "fontSize": "20px",
+      "fontWeight": "700",
+      "lineHeight": "28px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "backgroundImage": "none",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "margin": "0px",
+      "display": "inline",
+      "gap": "normal",
+      "boxShadow": "none"
+    }
+  ],
+  "sections": [],
+  "topColors": [
+    [
+      "rgb(0, 0, 0)",
+      610
+    ],
+    [
+      "rgb(255, 255, 255)",
+      356
+    ],
+    [
+      "rgb(115, 130, 144)",
+      120
+    ],
+    [
+      "rgb(208, 211, 229)",
+      60
+    ],
+    [
+      "rgb(34, 34, 34)",
+      47
+    ],
+    [
+      "rgb(65, 78, 92)",
+      30
+    ],
+    [
+      "rgb(129, 142, 156)",
+      30
+    ],
+    [
+      "rgb(23, 49, 59)",
+      28
+    ],
+    [
+      "rgb(1, 32, 37)",
+      27
+    ],
+    [
+      "rgb(255, 133, 98)",
+      24
+    ],
+    [
+      "rgb(43, 195, 89)",
+      16
+    ],
+    [
+      "rgb(155, 155, 165)",
+      11
+    ],
+    [
+      "rgb(112, 118, 148)",
+      6
+    ],
+    [
+      "rgb(29, 29, 31)",
+      6
+    ],
+    [
+      "rgb(242, 244, 246)",
+      6
+    ],
+    [
+      "rgb(112, 118, 149)",
+      4
+    ],
+    [
+      "rgba(255, 255, 255, 0.6)",
+      4
+    ],
+    [
+      "rgb(149, 162, 176)",
+      4
+    ],
+    [
+      "rgba(0, 0, 0, 0.5)",
+      3
+    ],
+    [
+      "rgb(153, 166, 168)",
+      2
+    ],
+    [
+      "rgb(72, 75, 96)",
+      2
+    ],
+    [
+      "rgb(66, 212, 113)",
+      2
+    ],
+    [
+      "rgb(0, 181, 56)",
+      1
+    ],
+    [
+      "rgb(255, 255, 255) rgb(0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+      1
+    ],
+    [
+      "rgb(255, 247, 5)",
+      1
+    ],
+    [
+      "rgb(51, 88, 102)",
+      1
+    ]
+  ],
+  "topFonts": [
+    [
+      "Times|16px|400|normal|normal",
+      461
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|16px|600|22.4px|normal",
+      56
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|16px|500|22.4px|normal",
+      52
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|14px|500|21px|normal",
+      24
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|16px|400|22px|normal",
+      22
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|16px|500|24px|normal",
+      15
+    ],
+    [
+      "WixMadeforDisplay|16px|500|21.6px|normal",
+      13
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|44px|700|48px|normal",
+      11
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|18px|400|25px|normal",
+      9
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|14px|400|20px|normal",
+      8
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|24px|700|26.4px|normal",
+      8
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|24px|700|29px|normal",
+      6
+    ],
+    [
+      "Times|0px|400|normal|normal",
+      6
+    ],
+    [
+      "WixMadeforDisplay|10px|400|normal|1px",
+      6
+    ],
+    [
+      "WixMadeforDisplay|20px|700|26px|normal",
+      6
+    ],
+    [
+      "Arial|13.3333px|400|normal|normal",
+      5
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|16px|700|24px|normal",
+      4
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|14px|400|19.6px|normal",
+      4
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|20px|700|28px|normal",
+      4
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|20px|700|24px|normal",
+      3
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|32px|700|35px|normal",
+      3
+    ],
+    [
+      "WixMadeforDisplay|14px|400|21px|normal",
+      3
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|18px|500|27px|normal",
+      3
+    ],
+    [
+      "WixMadeforDisplay|14px|600|22px|normal",
+      3
+    ],
+    [
+      "WixMadeforDisplay, Arial, sans-serif|36px|700|40px|normal",
+      2
+    ]
+  ],
+  "images": [
+    {
+      "src": "https://static.tildacdn.com/tild6634-6131-4161-b634-316365323662/Logosvg.svg",
+      "alt": "",
+      "w": 110,
+      "h": 35,
+      "naturalW": 112,
+      "naturalH": 36
+    },
+    {
+      "src": "https://static.tildacdn.com/tild6333-3639-4138-b334-316464376430/Check.svg",
+      "alt": "",
+      "w": 24,
+      "h": 25,
+      "naturalW": 24,
+      "naturalH": 25
+    },
+    {
+      "src": "https://static.tildacdn.com/tild6262-6664-4366-b935-383239373337/Check.svg",
+      "alt": "",
+      "w": 24,
+      "h": 25,
+      "naturalW": 24,
+      "naturalH": 25
+    },
+    {
+      "src": "https://static.tildacdn.com/tild6438-6331-4831-a331-653633363531/Check.svg",
+      "alt": "",
+      "w": 24,
+      "h": 25,
+      "naturalW": 24,
+      "naturalH": 25
+    },
+    {
+      "src": "https://static.tildacdn.com/tild3537-6333-4130-b762-336361633237/Check.svg",
+      "alt": "",
+      "w": 24,
+      "h": 25,
+      "naturalW": 24,
+      "naturalH": 25
+    },
+    {
+      "src": "https://static.tildacdn.com/tild3137-3862-4663-b333-323932623261/Check.svg",
+      "alt": "",
+      "w": 18,
+      "h": 19,
+      "naturalW": 24,
+      "naturalH": 25
+    },
+    {
+      "src": "https://static.tildacdn.com/tild3835-3463-4531-a137-316530333438/Check.svg",
+      "alt": "",
+      "w": 18,
+      "h": 19,
+      "naturalW": 24,
+      "naturalH": 25
+    },
+    {
+      "src": "https://static.tildacdn.com/tild3466-3934-4661-b931-316261653932/Check.svg",
+      "alt": "",
+      "w": 18,
+      "h": 19,
+      "naturalW": 24,
+      "naturalH": 25
+    },
+    {
+      "src": "https://static.tildacdn.com/tild3839-3031-4063-b437-386263313130/Check.svg",
+      "alt": "",
+      "w": 18,
+      "h": 19,
+      "naturalW": 24,
+      "naturalH": 25
+    },
+    {
+      "src": "https://thb.tildacdn.com/tild3162-6632-4666-b461-666664373036/-/resize/20x/Sk__-v-ru_green.png",
+      "alt": "",
+      "w": 40,
+      "h": 28,
+      "naturalW": 20,
+      "naturalH": 14
+    },
+    {
+      "src": "https://static.tildacdn.com/tild3031-6437-4139-b431-623032353861/Group_513042.svg",
+      "alt": "",
+      "w": 110,
+      "h": 35,
+      "naturalW": 112,
+      "naturalH": 36
+    },
+    {
+      "src": "https://static.tildacdn.com/tild6264-6133-4365-b932-643036636132/entypo-social_youtub.svg",
+      "alt": "",
+      "w": 48,
+      "h": 48,
+      "naturalW": 48,
+      "naturalH": 48
+    },
+    {
+      "src": "https://static.tildacdn.com/tild6331-3639-4362-a261-663538643931/Group_48097918.svg",
+      "alt": "",
+      "w": 48,
+      "h": 48,
+      "naturalW": 48,
+      "naturalH": 48
+    },
+    {
+      "src": "https://static.tildacdn.com/tild6464-6131-4631-b434-653464343638/Social.svg",
+      "alt": "",
+      "w": 48,
+      "h": 48,
+      "naturalW": 48,
+      "naturalH": 48
+    }
+  ],
+  "assets": [
+    "https://mc.yandex.ru/metrika/tag.js?id=103753418",
+    "https://telegram.org/js/pixel.js",
+    "https://mc.yandex.ru/metrika/tag_phono.js",
+    "https://top-fwz1.mail.ru/js/code.js",
+    "https://static.tildacdn.com/js/tilda-stat-1.0.min.js",
+    "https://mc.yandex.ru/metrika/tag.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-PS862RD",
+    "https://ph.in.doma.ai/static/array.js",
+    "https://abt.s3.yandex.net/expjs/latest/exp.js",
+    "https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js",
+    "https://static.tildacdn.com/css/tilda-grid-3.0.min.css",
+    "https://static.tildacdn.com/ws/project4400144/tilda-blocks-page66313997.min.css?t=1772439491",
+    "https://static.tildacdn.com/css/tilda-animation-2.0.min.css",
+    "https://static.tildacdn.com/css/tilda-menu-widgeticons-1.0.min.css",
+    "https://static.tildacdn.com/css/tilda-popup-1.1.min.css",
+    "https://static.tildacdn.com/css/tilda-forms-1.0.min.css",
+    "https://static.tildacdn.com/css/tilda-feed-1.1.min.css",
+    "https://static.tildacdn.com/css/tilda-slds-1.4.min.css",
+    "https://static.tildacdn.com/css/fonts-tildasans.css",
+    "https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js",
+    "https://static.tildacdn.com/js/jquery-1.10.2.min.js",
+    "https://static.tildacdn.com/js/tilda-scripts-3.0.min.js",
+    "https://static.tildacdn.com/ws/project4400144/tilda-blocks-page66313997.min.js?t=1772439491",
+    "https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js",
+    "https://static.tildacdn.com/js/tilda-animation-2.0.min.js",
+    "https://static.tildacdn.com/js/tilda-zero-1.1.min.js",
+    "https://static.tildacdn.com/js/tilda-menu-1.0.min.js",
+    "https://static.tildacdn.com/js/tilda-menu-widgeticons-1.0.min.js",
+    "https://static.tildacdn.com/js/tilda-popup-1.0.min.js",
+    "https://static.tildacdn.com/js/tilda-forms-1.0.min.js",
+    "https://static.tildacdn.com/js/tilda-feed-1.1.min.js",
+    "https://static.tildacdn.com/js/tilda-slds-1.4.min.js",
+    "https://static.tildacdn.com/js/hammer.min.js",
+    "https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js",
+    "https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js",
+    "https://static.tildacdn.com/js/tilda-zero-fixed-1.0.min.js",
+    "https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js",
+    "https://static.tildacdn.com/js/tilda-events-1.0.min.js",
+    "https://cdn.jsdelivr.net/gh/postnikovmd/tilda@1.3/mods.min.js",
+    "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+    "https://app.comagic.ru/static/cs.min.js",
+    "https://vk.com/js/api/openapi.js?161",
+    "https://static.tildacdn.com/js/tilda-phone-mask-1.1.min.js",
+    "https://static.tildacdn.com/js/jquery-1.10.2.min.js",
+    "https://static.tildacdn.com/js/tilda-calc-1.0.min.js",
+    "https://static.tildacdn.com/js/jquery-1.10.2.min.js",
+    "https://ph.in.doma.ai/array/phc_xhKFzK06Fp7myQhrtsk6uVB71OzuW25YNAaDHxQkOtE/config.js",
+    "https://privacy-cs.mail.ru/static/sync-loader.js",
+    "https://top-fwz1.mail.ru/js/dyn-goal-config.js?ids=3302969",
+    "https://static.tildacdn.com/js/tilda-errors-1.0.min.js",
+    "https://cdn.botfaqtor.ru/one.js"
+  ]
+}
