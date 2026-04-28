@@ -17,7 +17,7 @@ Clone this repository into your Codex skills folder:
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/aluchkov495/build-doma-ai-static-landings-skill.git ~/.codex/skills/build-doma-ai-static-landings
+git clone https://github.com/luchkov495/build-doma-ai-static-landings-skill.git ~/.codex/skills/build-doma-ai-static-landings
 ```
 
 Restart Codex after cloning if the skill does not appear immediately.
